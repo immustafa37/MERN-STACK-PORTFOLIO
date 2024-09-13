@@ -8,7 +8,7 @@ import Contact from './components/Contact';
 
 function App() {
   return (
-    <div className="App">
+    <div className="App dark"> {/* Add the dark class here */}
       <Header />
       <Home />
       <Skills />
